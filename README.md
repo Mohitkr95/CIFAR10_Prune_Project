@@ -8,7 +8,6 @@ This project provides an implementation for training a convolutional neural netw
 - [Directory Structure](#directory-structure)
 - [Usage](#usage)
 - [Results](#results)
-- [Contribute](#contribute)
 - [License](#license)
 
 ## Installation
