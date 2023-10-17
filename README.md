@@ -67,7 +67,7 @@ CIFAR10_Prune_Project/
 
 After running the `main.py` script, you'll get the following results:
 
-![image](attachments\training.png)
+![image](./attachments/training.png)
 
 - Training and validation accuracy of the original model.
 - Validation accuracy after model pruning with different pruning ratios.
